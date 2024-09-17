@@ -1,0 +1,19 @@
+#home {
+    color: rgb(21, 20, 20); 
+    padding: 25px 0;
+}
+
+#profil {
+    background-color: #ffe4e1; 
+    color: palevioletred; 
+    padding: 50px 0;
+}
+
+  h1, h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.container p {
+    text-align: justify;
+}
